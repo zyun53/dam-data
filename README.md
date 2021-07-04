@@ -11,6 +11,12 @@ ZenItiIndex `http://damnet.or.jp/cgi-bin/binranA/ZenItiIndex.cgi?zi=zen&sy=go`
   * go 五十音
   * ken 都道府県
 
+
+## dMap
+
+http://damnet.or.jp/cgi-bin/binranA/MPAll.cgi?cen=9
+http://damnet.or.jp/Dambinran/binran/JS/MPAllI.js
+
 ## 国土数値情報
 
 http://nlftp.mlit.go.jp/ksj/
